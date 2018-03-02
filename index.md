@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 100块也不给我
 
 You can use the [editor on GitHub](https://github.com/qinjitao/xiaoze/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
